@@ -9,5 +9,3 @@ This repository contains the code and data for an end-to-end tactile perception 
 ## System pipeline
 
 TENG sensing → ESP32 acquisition and wireless transmission → signal preprocessing → CNN-BiLSTM inference → finite-state machine validation → ROS 2 publication → robot response
-
-## Repository structure
